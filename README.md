@@ -8,7 +8,7 @@ Inorder for you to earn to power your GameServer Hosting with this system, you n
 
 # Features
 
-• Fully Funcional Login System
+• Fully Funcional Login System <br/>
 • Friendly User Dashboard 
 • Powerful Admin Panel For Management
 • Get Coins | For Having The User DashBoard Open |
