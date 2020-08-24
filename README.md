@@ -4,8 +4,7 @@ A simple virtual currency system to power your Gamerserver Hosting Services !
 
 # Introduction 
 
-Inorder for you to earn to power your GameServer Hosting with this system, you need to create an [ARC ACCOUNT]
-(https://arc.io/). Arc pays users for how many people visit their site and how long they stay. This is the best way to use ARC inorder to earn Money !
+Inorder for you to earn to power your GameServer Hosting with this system, you need to create an ARC aacount which you can create here : https://arc.io/. Arc pays users for how many people visit their site and how long they stay. This is the best way to use ARC inorder to earn Money !
 
 # Features
 
