@@ -9,10 +9,10 @@ Inorder for you to earn to power your GameServer Hosting with this system, you n
 # Features
 
 • Fully Funcional Login System <br/>
-• Friendly User Dashboard 
-• Powerful Admin Panel For Management
+• Friendly User Dashboard <br/>
+• Powerful Admin Panel For Management <br/>
 • Get Coins | For Having The User DashBoard Open |
-• Coins Counter and Display.
+• Coins Counter and Display. <br/>
 
 # Todo
 
@@ -20,8 +20,8 @@ Inorder for you to earn to power your GameServer Hosting with this system, you n
 
 # Status
 
-• Under Development 
-• Purchase Not Avilable
+• Under Development <br/>
+• Purchase Not Avilable <br/>
 
 # Download
 
