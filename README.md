@@ -1,4 +1,7 @@
-# Coins-System
+# Coins-System V4
+
+Coins V1 And V2 not available.
+Coins V3 Owned by NAVO and NODE MC
 
 A simple virtual currency system to power your Gamerserver Hosting Services !
 
@@ -13,16 +16,19 @@ Inorder for you to earn to power your GameServer Hosting with this system, you n
 • Powerful Admin Panel For Management <br/>
 • Get Coins | For Having The User DashBoard Open |
 • Coins Counter and Display. <br/>
-
+• Datk Theme
 # Todo
 
-• Get a free server Option | Users can claim their free server through the coins website | Can be Configured In The Admin Panel | Supported Panels : PRETREDECTYOL PANEL |
-
+• Get a free server Option | 
+• Users can claim their free server through the coins website 
+• Can be Configured In The Admin Panel | 
+• Supported Panels : PRETREDECTYOL PANEL |
+• White Theme + Switcher |
 # Status
 
 • Under Development <br/>
-• Purchase Not Avilable <br/>
+• Purchase Not Available <br/>
 
 # Download
 
-Currently, there is no free version of this coins system. It is very cheap. Inorder to get this, you must contact @AbisGamer#0770 on Discord.
+Comig Soon
